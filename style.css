@@ -1,0 +1,44 @@
+body {
+    background-color: #eee;
+    font-family: Arial;
+    margin: 10px;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+.menu {
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+a {
+    color: black;
+    margin: 5px;
+}
+section {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+h2 {
+    color: black;
+}
+input, select {
+    padding: 7px;
+    margin: 5px;
+    border: 1px solid gray;
+}
+button {
+    background-color: #ddd;
+    color: black;
+    padding: 7px;
+    border: 1px solid gray;
+}
+p {
+    margin: 10px;
+}
+div {
+    margin-top: 10px;
+}
